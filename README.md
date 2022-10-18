@@ -9,5 +9,4 @@ flutterアプリ作成の練習
 - タスクの説明・日時の追加
 
 
-Uploading flutter-todo720.mov…
-
+https://user-images.githubusercontent.com/99969863/196379165-5cb8be26-2f11-4bab-8cff-9d4fae873292.mov
